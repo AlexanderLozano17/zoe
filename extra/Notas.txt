@@ -1,0 +1,16 @@
+1. validar que al ingresar un nuevo usuario no este repetido por correo.
+
+2. si ingresa un nuevo usuario con un correo distinto pero con datos iguales ala base de datos no permitir que   
+   cambie los datos simplemente se remplazn y se cambia el correo.
+
+3.permitirme crer una cuenta sin necesidad de llenar todos los datos.
+
+4.que el usuario al ingresar por primer vez ala cuenta se vea obligado a los datos faltantes.
+
+
+****************************************************************
+ERRORES SQL:
+
+Champ 'usuarioCreacion' inconnu dans field list = error number: 1054 ----> El campo  xxx no existe 
+
+****************************************************************

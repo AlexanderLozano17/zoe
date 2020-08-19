@@ -1,0 +1,38 @@
+/*
+	ARCHIVO CSS PERSONALIZADO
+
+*/
+
+/*---------------------------------
+	IMPORTS
+-----------------------------------
+@import url(https://fonts.googleapis.com/css?family=Arimo:400,700);*/
+
+/*---------------------------------
+	OVERRIDES
+-----------------------------------*/
+#divLogin{
+	margin-top:4em;
+}
+.bg-login{
+	background: url('../img/fondo.jpg');
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-color: #464646;
+}
+/*---------------------------------
+	LAYOUT
+-----------------------------------*/
+
+/*---------------------------------
+	MENU PRINCIPAL
+-----------------------------------*/
+
+
+
+/*---------------------------------
+	TABLAS
+-----------------------------------*/
+
